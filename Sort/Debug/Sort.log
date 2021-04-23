@@ -1,0 +1,13 @@
+﻿  Sort.cpp
+d:\sort\sort\sort\sort.cpp(184): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(185): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(186): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(187): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(205): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+d:\sort\sort\sort\sort.cpp(231): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(232): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(233): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(234): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\sort\sort\sort\sort.cpp(252): warning C4244: 'argument': conversion from '__int64' to 'std::size_t', possible loss of data
+  Sort.vcxproj -> D:\Sort\Sort\Debug\Sort.exe
+  Sort.vcxproj -> D:\Sort\Sort\Debug\Sort.pdb (Full PDB)
